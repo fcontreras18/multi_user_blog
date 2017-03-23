@@ -1,1 +1,2 @@
-# multi_user_blog
+# Multi User Blog
+
